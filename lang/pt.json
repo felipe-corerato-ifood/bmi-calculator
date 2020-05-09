@@ -1,0 +1,25 @@
+{
+    "app.constants.app-bar.title": "Calculadora de IMC",
+
+    "app.constants.gender.MALE": "HOMEM",
+    "app.constants.gender.FEMALE": "MULHER",
+
+    "app.bmi.type.OVERWEIGHT.title": "SOBREPESO",
+    "app.bmi.type.OVERWEIGHT.interpretation": "You have a higher than normal body weight. Try to exercise more.",
+    "app.bmi.type.NORMAL.title": "PESO NORMAL",
+    "app.bmi.type.NORMAL.interpretation": "You have a normal body weight. Good job!",
+    "app.bmi.type.UNDERWEIGHT.title": "ABAIXO DO PESO",
+    "app.bmi.type.UNDERWEIGHT.interpretation": "You have a lower than normal body weight. You can eat a bit more.",
+
+    "app.input-page.card.height.title": "ALTURA",
+    "app.input-page.card.height.metric": "cm",
+
+    "app.input-page.card.weight.title": "PESO",
+    "app.input-page.card.age.title": "IDADE",
+
+    "app.input-page.bottom-button.title": "CALCULAR",
+
+    "app.result-page.title": "Seu resultado",
+
+    "app.result-page.bottom-button.title": "RECALCULAR"
+}

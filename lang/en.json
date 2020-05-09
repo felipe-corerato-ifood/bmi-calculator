@@ -1,0 +1,25 @@
+{
+    "app.constants.app-bar.title": "BMI CALCULATORRRRR",
+
+    "app.constants.gender.MALE": "MALE",
+    "app.constants.gender.FEMALE": "FEMALE",
+
+    "app.bmi.type.OVERWEIGHT.title": "OVERWEIGHT",
+    "app.bmi.type.OVERWEIGHT.interpretation": "You have a higher than normal body weight. Try to exercise more.",
+    "app.bmi.type.NORMAL.title": "NORMAL WEIGHT",
+    "app.bmi.type.NORMAL.interpretation": "You have a normal body weight. Good job!",
+    "app.bmi.type.UNDERWEIGHT.title": "UNDERWEIGHT",
+    "app.bmi.type.UNDERWEIGHT.interpretation": "You have a lower than normal body weight. You can eat a bit more.",
+
+    "app.input-page.card.height.title": "HEIGHT",
+    "app.input-page.card.height.metric": "cm",
+
+    "app.input-page.card.weight.title": "WEIGHT",
+    "app.input-page.card.age.title": "AGE",
+
+    "app.input-page.bottom-button.title": "CALCULATE",
+
+    "app.result-page.title": "Your Result",
+
+    "app.result-page.bottom-button.title": "RE-CALCULATE"
+}
