@@ -11,6 +11,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.4.0
+  flutter_localizations: 
+    sdk: flutter
 
 dev_dependencies:
   flutter_test:
